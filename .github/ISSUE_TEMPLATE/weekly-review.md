@@ -1,4 +1,5 @@
 ---
+---
 name: Weekly Review
 about: End-of-week reflection and publishing
 title: "Weekly Review: Week N"
