@@ -1,0 +1,26 @@
+name: Weekly Review
+description: End-of-week reflection and publishing
+title: "Weekly Review: Week N"
+labels:
+  - weekly-review
+body:
+  - type: textarea
+    id: wins
+    attributes:
+      label: Wins (≤3)
+      placeholder: "- ..."
+  - type: textarea
+    id: problems
+    attributes:
+      label: Problems & Fixes (≤2)
+      placeholder: "- Problem → Fix"
+  - type: textarea
+    id: keepdrop
+    attributes:
+      label: Keep / Drop
+      placeholder: "- Keep: ...\n- Drop: ..."
+  - type: textarea
+    id: publish
+    attributes:
+      label: To Publish
+      placeholder: "- Notebook(s) & links: ..."
