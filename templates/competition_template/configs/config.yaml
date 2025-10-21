@@ -1,0 +1,12 @@
+# Example config (edit per competition)
+seed: 42
+n_splits: 5
+stratified: true
+target: <fill in>
+features:
+  - <fill in or generate in code>
+model:
+  name: lightgbm
+  params:
+    n_estimators: 1000
+    learning_rate: 0.05

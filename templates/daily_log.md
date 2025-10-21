@@ -1,0 +1,19 @@
+# Daily Log (copy this file per day: YYYY-MM-DD.md)
+
+## Today's Goals
+- ...
+
+## Changes Made (3–5 bullets)
+- Features / parameters / validation updates
+- ...
+
+## Results
+- CV: ...
+- LB: ...
+- Overfit? (CV >> LB) Underfit? (CV << LB) Notes: ...
+
+## Time & Resources
+- CPU/GPU/TPU usage and hours
+
+## Tomorrow's Plan
+- ...
